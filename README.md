@@ -1,5 +1,6 @@
 # X-ray-classification-resnet50
 Medical Imaging HC701 Assignment 2 Task 2
+
 Using ResNet50 to do classification on X-ray images
 
 dataset : X-ray Tuberculosis dataset   (https://www.kaggle.com/datasets/usmanshams/tbx-11) 
